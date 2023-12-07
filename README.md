@@ -15,3 +15,5 @@ __Running DecStpInc on a selection does this:__
 If you want to bind the macro to a key, you need to bind it to two: one for multiplying times 10 (DecStpInc), and one for dividing (DecStpDec). 
 
 Simply select the cells to change and run the macro.
+## Installation
+This is a .zip of the BASIC Library. You must import it. Instructions: [https://books.libreoffice.org/en/GS70/GS7013-GettingStartedWithMacros.html#toc25](https://books.libreoffice.org/en/GS70/GS7013-GettingStartedWithMacros.html#toc25)
